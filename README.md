@@ -106,7 +106,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - [@GithubUsername](https://github.com/yourusername)
+- Himmet Samet Çaktı - [@sametten](https://github.com/sametten)
 
 ## 🙏 Acknowledgments
 
