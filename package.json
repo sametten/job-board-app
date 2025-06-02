@@ -1,0 +1,40 @@
+{
+  "name": "job-board-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview",
+    "test": "vitest",
+    "test:coverage": "vitest run --coverage"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.8",
+    "@tailwindcss/vite": "^4.1.8",
+    "axios": "^1.9.0",
+    "markdown-it": "^14.1.0",
+    "pinia": "^3.0.2",
+    "postcss": "^8.5.4",
+    "tailwindcss": "^4.1.8",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^21.1.7",
+    "@types/markdown-it": "^14.1.2",
+    "@types/node": "^22.15.29",
+    "@vitejs/plugin-vue": "^5.2.4",
+    "@vitest/coverage-v8": "^3.2.0",
+    "@vue/test-utils": "^2.4.6",
+    "@vue/tsconfig": "^0.7.0",
+    "jsdom": "^26.1.0",
+    "prettier": "^3.5.3",
+    "prettier-plugin-tailwindcss": "^0.6.12",
+    "typescript": "~5.8.3",
+    "vite": "^6.3.5",
+    "vitest": "^3.2.0",
+    "vue-tsc": "^2.2.8"
+  }
+}

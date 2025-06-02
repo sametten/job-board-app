@@ -1,0 +1,68 @@
+{
+    "jobs": [
+        {
+            "id": 1,
+            "title": "Senior Frontend Developer",
+            "location": "Remote",
+            "category": "Development",
+            "keywords": ["Vue.js", "TypeScript", "Tailwind CSS", "Frontend", "JavaScript"],
+            "description": "## About the Role\n\nWe're looking for an experienced Frontend Developer to join our growing team. You'll be working on cutting-edge web applications using Vue.js and modern web technologies.\n\n### Requirements\n\n- Strong experience with Vue.js and its ecosystem (Vuex, Vue Router)\n- Proficient in TypeScript and modern JavaScript (ES6+)\n- Experience with responsive design and CSS preprocessors\n- Understanding of web performance optimization\n\n### Tech Stack\n\n- Vue.js 3\n- TypeScript\n- Tailwind CSS\n- Vite\n- Jest for testing"
+        },
+        {
+            "id": 2,
+            "title": "Backend Engineer",
+            "location": "İstanbul",
+            "category": "Development",
+            "keywords": ["Node.js", "TypeScript", "API", "Database", "Docker"],
+            "description": "## Role Overview\n\nWe are seeking a Backend Engineer to help build and maintain our scalable APIs and microservices.\n\n### Key Responsibilities\n\n- Design and implement RESTful APIs\n- Write clean, maintainable, and efficient code\n- Collaborate with frontend developers\n- Optimize application performance\n\n### Required Skills\n\n- Node.js and TypeScript expertise\n- Experience with SQL and NoSQL databases\n- Understanding of API design principles\n- Knowledge of Docker and containerization"
+        },
+        {
+            "id": 3,
+            "title": "Digital Marketing Manager",
+            "location": "Ankara",
+            "category": "Marketing",
+            "keywords": ["Digital Marketing", "SEO", "Social Media", "Content Strategy", "Analytics"],
+            "description": "## About the Position\n\nWe're looking for a Digital Marketing Manager to lead our online marketing initiatives and drive growth.\n\n### Key Responsibilities\n\n- Develop and execute digital marketing strategies\n- Manage social media presence and content calendar\n- Optimize SEO and SEM campaigns\n- Analyze marketing metrics and prepare reports\n\n### Required Skills\n\n- Proven experience in digital marketing\n- Strong analytical and strategic thinking\n- Experience with marketing automation tools\n- Knowledge of SEO/SEM best practices"
+        },
+        {
+            "id": 4,
+            "title": "Content Writer",
+            "location": "Remote",
+            "category": "Marketing",
+            "keywords": ["Content Writing", "SEO", "Copywriting", "Blog Writing", "Social Media"],
+            "description": "## Role Description\n\nWe're seeking a talented Content Writer to create engaging content for our blog and social media channels.\n\n### Main Responsibilities\n\n- Write high-quality blog posts and articles\n- Create engaging social media content\n- Optimize content for SEO\n- Collaborate with marketing and design teams\n\n### Required Skills\n\n- Excellent writing and editing skills\n- Understanding of SEO principles\n- Experience with content management systems\n- Strong research abilities"
+        },
+        {
+            "id": 5,
+            "title": "UI/UX Designer",
+            "location": "İzmir",
+            "category": "Design",
+            "keywords": ["UI", "UX", "Figma", "Design Systems", "Prototyping"],
+            "description": "## Role Description\n\nWe're seeking a talented UI/UX Designer to create beautiful and intuitive user interfaces.\n\n### Your Impact\n\n- Design user-centered interfaces\n- Create wireframes and prototypes\n- Conduct user research\n- Collaborate with developers\n\n### Skills & Qualifications\n\n- Proficiency in Figma\n- Understanding of UI/UX principles\n- Experience with design systems\n- Knowledge of web/mobile design"
+        },
+        {
+            "id": 6,
+            "title": "Product Designer",
+            "location": "Remote",
+            "category": "Design",
+            "keywords": ["Product Design", "User Research", "Design Thinking", "Prototyping", "Design Systems"],
+            "description": "## About the Role\n\nWe're looking for a Product Designer to help shape the future of our digital products.\n\n### Key Responsibilities\n\n- Lead the design process from concept to implementation\n- Conduct user research and usability testing\n- Create and maintain design systems\n- Collaborate with product and engineering teams\n\n### Required Skills\n\n- Strong portfolio of digital product design work\n- Experience with design thinking methodology\n- Proficiency in modern design tools\n- Understanding of web and mobile design principles"
+        },
+        {
+            "id": 7,
+            "title": "Brand Manager",
+            "location": "İstanbul",
+            "category": "Marketing",
+            "keywords": ["Brand Strategy", "Marketing", "Communication", "Campaign Management", "Analytics"],
+            "description": "## Position Overview\n\nWe're looking for a Brand Manager to develop and execute our brand strategy.\n\n### Key Responsibilities\n\n- Develop and implement brand strategies\n- Manage brand identity and guidelines\n- Plan and execute marketing campaigns\n- Monitor brand performance metrics\n\n### Required Skills\n\n- Proven experience in brand management\n- Strong strategic thinking abilities\n- Excellence in project management\n- Understanding of market research and analytics"
+        },
+        {
+            "id": 8,
+            "title": "Motion Designer",
+            "location": "Hybrid",
+            "category": "Design",
+            "keywords": ["Motion Design", "After Effects", "Animation", "Video Editing", "Creative"],
+            "description": "## About the Position\n\nWe're seeking a Motion Designer to create engaging animated content for our digital platforms.\n\n### Key Responsibilities\n\n- Create animated content for social media\n- Design motion graphics for product features\n- Develop animation guidelines\n- Collaborate with marketing and design teams\n\n### Required Skills\n\n- Proficiency in After Effects and related tools\n- Strong understanding of animation principles\n- Experience with video editing\n- Creative storytelling abilities"
+        }
+    ]
+} 
