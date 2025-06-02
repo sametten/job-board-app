@@ -68,9 +68,6 @@ job-board-app/
 │   ├── types/         # TypeScript type definitions
 │   ├── assets/        # Static files
 │   └── App.vue        # Root application component
-├── tests/
-│   └── unit/          # Unit tests
-├── public/            # Public files
 └── package.json       # Project dependencies
 ```
 
